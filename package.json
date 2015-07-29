@@ -2,10 +2,10 @@
   "name": "example-hello",
   "version": "1.0.0",
   "description": "A sample 'hello world' file",
-  "main": "app.js",
+  "main": "www.js",
   "scripts": {
     "test": "exit 0",
-    "start": "node ./app"
+    "start": "node ./www"
   },
   "author": "Jared",
   "license": "ISC",
